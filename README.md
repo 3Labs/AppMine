@@ -1,0 +1,2 @@
+# AppMine
+Financial Management Platform
